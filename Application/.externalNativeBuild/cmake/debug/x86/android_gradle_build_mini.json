@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\leade\\AndroidStudioProjects\\Camera2Basic\\..\\..\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\leade\\AndroidStudioProjects\\Camera2Basic\\..\\..\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\leade\\AndroidStudioProjects\\Camera2Basic\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\leade\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\leade\\AndroidStudioProjects\\Camera2Basic\\Application\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\leade\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\leade\\AndroidStudioProjects\\Camera2Basic\\Application\\.externalNativeBuild\\cmake\\debug\\x86 --target native-lib",
+      "abi": "x86",
+      "output": "C:\\Users\\leade\\AndroidStudioProjects\\Camera2Basic\\Application\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-lib.so"
+    }
+  }
+}

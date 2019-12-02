@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Sat Oct 19 22:51:59 GMT+09:00 2019
+1.base=C\:\\Users\\leade\\AndroidStudioProjects\\Camera2Basic\\Application\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+2.path=lib/x86/libnative-lib.so
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\leade\\AndroidStudioProjects\\Camera2Basic\\Application\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+3.set=DEX
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=DEX
+0.path=lib/arm64-v8a/libnative-lib.so
+3.base=C\:\\Users\\leade\\AndroidStudioProjects\\Camera2Basic\\Application\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+0.set=NATIVE_RESOURCE
+0.base=C\:\\Users\\leade\\AndroidStudioProjects\\Camera2Basic\\Application\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+2.baseType=DIRECTORY
+1.path=classes.dex
