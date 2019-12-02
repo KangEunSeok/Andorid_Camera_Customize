@@ -1,5 +1,5 @@
 
-Android Camera2Basic Sample
+Android Camera2Basic Customize
 ===================================
 
 This sample demonstrates how to use basic functionalities of Camera2
