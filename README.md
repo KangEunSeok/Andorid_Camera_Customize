@@ -11,7 +11,7 @@ Function
 
 2. Scene / Effect mode
 
-<img src="https://user-images.githubusercontent.com/58414656/70021341-bd834180-15d3-11ea-95fe-bdb6d06f233a.jpg" width="300px" height="400px"> <img src="https://user-images.githubusercontent.com/58414656/70021344-beb46e80-15d3-11ea-85bc-17cad845f652.jpg" width="300px" heigth="400px">
+<img src="https://user-images.githubusercontent.com/58414656/70021341-bd834180-15d3-11ea-95fe-bdb6d06f233a.jpg" width="300px" height="400px"> <img src="https://user-images.githubusercontent.com/58414656/70021344-beb46e80-15d3-11ea-85bc-17cad845f652.jpg" width="300px" height="400px">
 
 3. Color Pick Filter
 
